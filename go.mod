@@ -1,3 +1,3 @@
-module example.com/m/v2
+module github.com/ericywl/go-examples
 
 go 1.14
